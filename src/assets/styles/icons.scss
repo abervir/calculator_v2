@@ -1,0 +1,25 @@
+.icon {
+  display: block;
+  height: 24px;
+  width: 24px;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-size: 24px 24px;
+  background-position-x: 0;
+
+  &.icon-plus-sign {
+    background-image: url('../icons/plus.svg');
+  }
+
+  &.icon-divide-sign {
+    background-image: url('../icons/divide.svg');
+  }
+
+  &.icon-remainder-of-division-sign {
+    background-image: url('../icons/remainder-of-division.svg');
+  }
+
+  &.icon-prime-number-sign {
+    background-image: url('../icons/prime.svg');
+  }
+}

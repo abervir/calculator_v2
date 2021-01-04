@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CalculatorForm should render component 1`] = `
+<div
+  className="calculator-form"
+>
+  <div
+    className="inputs"
+  >
+    <Input
+      isNumbersOnly={true}
+      onChange={[Function]}
+      placeholder="Operand 1"
+    />
+    <CalculatorOperationsList
+      onChangeOperation={[Function]}
+    />
+    <Input
+      isNumbersOnly={true}
+      onChange={[Function]}
+      placeholder="Operand 2"
+    />
+  </div>
+  <Button
+    onClick={[Function]}
+    title="Calculate"
+  />
+</div>
+`;

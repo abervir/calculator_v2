@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table should render component 1`] = `
+<table
+  className="table"
+>
+  <tbody>
+    <tr
+      key="test"
+    >
+      <td>
+        1
+      </td>
+      <td>
+        test
+      </td>
+      <td>
+        5
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

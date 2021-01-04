@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CalculatorOperationsListItem should render component 1`] = `
+<div
+  className="operation-label"
+>
+  <i
+    className="icon icon"
+    title="title"
+  />
+  <span>
+    title
+  </span>
+</div>
+`;

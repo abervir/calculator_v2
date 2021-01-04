@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CalculatorOperationsList should render CalculatorOperationsList component 1`] = `
+<div
+  className="calculator-operations-list"
+>
+  <Dropdown
+    baseClassName="Dropdown"
+    onChange={[Function]}
+    options={
+      Array [
+        Object {
+          "label": <CalculatorOperationsListItem
+            icon="icon-plus-sign"
+            title="Sum"
+          />,
+          "value": "PLUS",
+        },
+        Object {
+          "label": <CalculatorOperationsListItem
+            icon="icon-divide-sign"
+            title="Divide"
+          />,
+          "value": "DIVIDE",
+        },
+        Object {
+          "label": <CalculatorOperationsListItem
+            icon="icon-remainder-of-division-sign"
+            title="Remainder of a division"
+          />,
+          "value": "REMAINDER_OF_DIVISION",
+        },
+        Object {
+          "label": <CalculatorOperationsListItem
+            icon="icon-prime-number-sign"
+            title="Max prime number between two operands"
+          />,
+          "value": "MAX_PRIME_NUMBER",
+        },
+      ]
+    }
+    placeholder="Select an option"
+  />
+</div>
+`;

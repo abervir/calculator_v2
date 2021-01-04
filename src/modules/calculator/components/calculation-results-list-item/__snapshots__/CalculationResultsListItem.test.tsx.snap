@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CalculationResultsListItem should render component 1`] = `
+<Fragment>
+  <td
+    className="calculation-result-title"
+  >
+    Operation1
+     operation
+  </td>
+  <td
+    className="calculation-result-representation"
+  >
+    0 + 1 = 1
+  </td>
+  <td>
+    Thu, 01 Jan 1970 00:00:00 GMT
+  </td>
+  <td
+    className="controls-column"
+  >
+    <Button
+      onClick={[Function]}
+      title="Copy result!"
+    />
+  </td>
+</Fragment>
+`;

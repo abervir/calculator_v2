@@ -1,0 +1,13 @@
+@import '../../../../assets/styles/variables.scss';
+
+.calc-input {
+  border-bottom: $border;
+
+  input {
+    border: none;
+    width: 100%;
+    outline: none;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+}

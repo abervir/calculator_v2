@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input should render component 1`] = `
+<div
+  className="calc-input"
+>
+  <input
+    onChange={[Function]}
+    onKeyDown={[Function]}
+    placeholder="placeholder"
+  />
+</div>
+`;
